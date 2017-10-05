@@ -10,6 +10,6 @@ We are a family business based in the beautiful Fraser Valley of British Columbi
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Contact us at: 
 
-[jim-ross@dlive.com](mailto:jim-ross@live.com)
+[info@rustichome.ca](mailto:info@rustichome.ca)
