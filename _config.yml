@@ -7,7 +7,7 @@ name: Rustic Home
 
 # Short bio or description (displayed in the header)
 description: Custom Wood Furniture Made in the Lower Mainland, British Columbia
-
+![_config.yml]({{ site.baseurl }}/images/rustichome.png)
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: rustichome.png
 
