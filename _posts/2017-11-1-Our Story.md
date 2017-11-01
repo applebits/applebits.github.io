@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 We are a family business based in Abbotsford situated in the Fraser Valley of British Columbia. Our Western Red Cedar comes from sustainably managed forests in B.C. We are proud to have mill direct, locally sourced cedar products. We value our customers feedback to ensure our standards can meet and exceed your expectations. We truly listen to what you want for your space. Whether you're after modern interior design or warm and cozy; we can help you create a lovely atmosphere with our cedar products. Deliveries are available. Let us start your story today!
 
