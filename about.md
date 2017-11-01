@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact us at: 
 
-[jim@rustichome.ca](mailto:jim@rustichome.ca)
+[jim-ross@live.com](mailto:jim-ross@live.com)
